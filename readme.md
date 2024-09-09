@@ -11,6 +11,23 @@ This project is a parcel management system designed to track and manage parcels 
 - **Database Integration**: Stores parcel data in a MySQL database with appropriate schema.
 
 ## Installation
+1 Navigate to your project directory:
+cd path/to/your_flask_project
+
+2 Create a virtual environment (for Python 3):
+python -m venv venv
+
+3 Activate the virtual environment:
+venv\Scripts\activate
+
+4 Install dependencies:
+pip install -r requirements.txt
+
+5 run application
+python app.py
+
+6  Deactivate the Virtual Environment (when done)
+deactivate
 
 ### Prerequisites
 
